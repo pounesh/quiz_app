@@ -3,6 +3,13 @@
 
 A responsive Quiz application built with **HTML**, **CSS**, and **JavaScript**. The application presents multiple-choice questions, allows users to navigate through them, and displays the final score after completing the quiz. The interface is designed using a modern **Glassmorphism** style.
 
+
+
+live demo:
+quiz-app-alpha-one-32.vercel.app
+
+
+
 ## Features
 
 - Multiple-choice quiz questions
